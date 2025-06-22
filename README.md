@@ -69,7 +69,7 @@ So therefore, dear reader, be aware of this! **Pay attention to the creation dat
 **✓ TallMacro.ahk** - Macro to increase the height of a minecraft window, by Priffie, [https://gist.github.com/Priffin/5a965660f8b2aaed1405786efe160a48](https://gist.github.com/Priffin/5a965660f8b2aaed1405786efe160a48)\
 🞂 How to use Tall Macro to measure eyes, by Priffie, 2023, [https://www.youtube.com/watch?v=HfQKsRd0fl8](https://www.youtube.com/watch?v=HfQKsRd0fl8) (unlisted)
 
-*🞂 `(De)` Erklärung resize.ahk: ahk4mc, by thrashixx, 2025, [https://www.youtube.com/watch?v=fSzmg97NUhY#t=60s](https://www.youtube.com/watch?v=fSzmg97NUhY#t=60s) (01:00-02:48) (unlisted)*
+🞂 `(De)` *Erklärung resize.ahk: ahk4mc, by thrashixx, 2025, [https://www.youtube.com/watch?v=fSzmg97NUhY#t=60s](https://www.youtube.com/watch?v=fSzmg97NUhY#t=60s) (01:00-02:48) (unlisted)*
 	
 <br>
 
