@@ -5,6 +5,7 @@
 ---
 
 **Content**
+* [Introduction](#Introduction)
 * [Finding the stronghold](#finding-the-stronghold)
 	* [Ninjabrain Bot](#ninjabrain-bot)
 	* [TallMacro](#tallmacro)
@@ -12,6 +13,11 @@
 
 ---
 <br>
+
+## Introduction
+
+    ⚠ Please consider that the project related to what you see here is only in the concept phase.
+    I take no responsibility for the accuracy and timeliness of the information provided here. ⚠
 
 hii there :)\
 Below you will find a list of resources to help you find your way around MCSR.\
@@ -21,11 +27,10 @@ There is information on MCSR scattered all over the internet (unfortunately ofte
 
 So therefore, dear reader, be aware of this! **Pay attention to the creation date of tutorials.** And if you are looking for something specific ask someone in the community. They are usually very supportive ♡
 
-
 ---
 <br>
 
-**Explanation of symbols used:**
+## Explanation of symbols used
 
 |  |   | 
 |--------------- | --------------- |
