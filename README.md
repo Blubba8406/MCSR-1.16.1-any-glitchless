@@ -6,6 +6,7 @@
 
 **Content**
 * [Introduction](#Introduction)
+  	* [Explanation of symbols](#Explanation-of-symbols)
 * [Finding the stronghold](#finding-the-stronghold)
 	* [Ninjabrain Bot](#ninjabrain-bot)
 	* [TallMacro](#tallmacro)
@@ -30,7 +31,7 @@ So therefore, dear reader, be aware of this! **Pay attention to the creation dat
 ---
 <br>
 
-## Explanation of symbols used
+## Explanation of symbols
 
 |  |   | 
 |--------------- | --------------- |
